@@ -1,0 +1,7 @@
+2015-12-14 15.42.41 - Starting C:\Program Files\nodejs\node.exe --harmony "\\dfs\dta\Data Files\web\app.noae.net\node_modules\node-windows\lib\wrapper.js" -f "\\dfs\dta\Data Files\web\app.noae.net\api1.jss" -l "nodeJS-servicesF01" -g 0.25 -w 1 -r 3 -a n
+2015-12-14 15.42.41 - Started 2744
+2015-12-15 01.56.15 - Stopping nodejsservicesf01.exe
+2015-12-15 01.56.15 - ProcessKill 2744
+2015-12-15 01.56.15 - Finished nodejsservicesf01.exe
+2015-12-15 01.57.39 - Starting C:\Program Files\nodejs\node.exe --harmony "\\dfs\dta\Data Files\web\app.noae.net\node_modules\node-windows\lib\wrapper.js" -f "\\dfs\dta\Data Files\web\app.noae.net\api1.jss" -l "nodeJS-servicesF01" -g 0.25 -w 1 -r 3 -a n
+2015-12-15 01.57.41 - Started 1676
