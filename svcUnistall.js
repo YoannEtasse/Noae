@@ -1,3 +1,5 @@
+// script de desinstallation du service
+
 var Service = require('node-windows').Service;
  
 // Create a new service object 
@@ -15,5 +17,5 @@ svc.on('uninstall',function(){
 // Uninstall the service. 
 svc.user.domain = 'network';
 svc.user.account = 'supervisor';
-svc.user.password = 'Koadrya2Marajo';
+svc.user.password = 'K***';
 svc.uninstall();
