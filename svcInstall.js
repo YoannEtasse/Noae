@@ -1,3 +1,6 @@
+// script d'installation du service
+
+
 var Service = require('node-windows').Service;
  
 // Create a new service object 
@@ -15,5 +18,5 @@ svc.on('install',function(){
 
 svc.user.domain = 'network';
 svc.user.account = 'supervisor';
-svc.user.password = 'Koadrya2Marajo';
+svc.user.password = 'K***';
 svc.install();
